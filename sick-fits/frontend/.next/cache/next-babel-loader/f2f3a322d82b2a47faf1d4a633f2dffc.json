@@ -1,1 +1,0 @@
-{"ast":null,"code":"export default function Page() {\n  return;\n}","map":{"version":3,"sources":["/Users/linamierke/Github/wesbos/graphql/sick-fits/frontend/components/Page.js"],"names":["Page"],"mappings":"AAAA,eAAe,SAASA,IAAT,GAAgB;AAE7B;AAED","sourcesContent":["export default function Page() {\n\n  return\n  \n}\n"]},"metadata":{},"sourceType":"module"}
